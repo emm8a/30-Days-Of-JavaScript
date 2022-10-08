@@ -221,7 +221,7 @@ console.log(Math.sqrt(100)); // 10
 
 console.log(Math.sqrt(2)); // 1.4142135623730951
 
-// Poder
+// Potencia
 console.log(Math.pow(3, 2)); // 9
 
 console.log(Math.E); // 2.718
